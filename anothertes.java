@@ -5,7 +5,7 @@ public class anothertes {
         int array[] = new int[10];
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Give the interger Element: ");
+        System.out.println("Give the integer Element: ");
         for (int i =0;i<array.length;i++){
             array[i] = input.nextInt();
         }
